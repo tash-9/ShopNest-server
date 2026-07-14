@@ -10,7 +10,7 @@ ShopNest is a full-stack e-commerce platform where buyers can browse and purchas
 
 ## 🔗 Live URL
 
-- **Backend API:** [https://shopnest-server.onrender.com](https://shopnest-server.onrender.com)
+- **Backend API:** [https://shopnest-client.vercel.app](https://shop-nest-server-nine.vercel.app/)
 
 ---
 ```
